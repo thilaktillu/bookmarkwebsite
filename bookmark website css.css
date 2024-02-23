@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.container-top {
+    background-color: #2d3aBc;
+    font-family: "Roboto";
+    padding: 6px;
+    margin: 10px;
+    height: 80px;
+}
+
+.container-heading {
+    color: #f5f7fd;
+    font-size: 16px;
+    font-family: "Roboto";
+    padding: 10px;
+}
+
+.container-description {
+    color: white;
+    font-size: 24px;
+    font-family: "Roboto";
+}
+
+.bookmark-container {
+    background-color: white;
+    background-size: cover;
+    margin: 0px;
+    border-radius: 18px;
+}
+
+.bookmark-container-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 200;
+    padding: 20px;
+}
+
+.boxcontainer {
+    background-color: #f5f7fa;
+    border-radius: 15px;
+    padding: 20px;
+    border-style: solid;
+    border-color: #cbd2d9;
+    border-width: 1px;
+}
+
+.google-box {
+    color: #323f4b;
+}
+
+ul {
+    list-style: none;
+}
+
+label {
+    color: #7b8794;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.button {
+    background-color: #2d3aBc;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+p {
+    color: #dc3545;
+}
+
+.formcontainer {
+    background-color: white;
+    border-top-left-radius: 28px;
+    border-top-right-radius: 20px;
+    height: 68vh;
+}
+
+.cardheading {
+    color: #21396c;
+    font-size: 20px;
+}
